@@ -1,0 +1,2 @@
+Hello, this is my first C++ security project!
+I am learning file handling and encryption.
