@@ -1,6 +1,6 @@
 # 🔐 C++ File Security Utility
 
-A beginner-friendly C++ project for encrypting and decrypting text files using a key-based character transformation.
+A C++ project for encrypting and decrypting text files using a key-based character transformation.
 
 ## 📌 About the Project
 
@@ -71,7 +71,7 @@ The same key is used to reverse the transformation and recover the original cont
 * Input validation
 * Basic encryption concepts
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Better CLI interface
 * Object-oriented design
@@ -82,7 +82,7 @@ The same key is used to reverse the transformation and recover the original cont
 * Improved error handling
 * More comprehensive testing
 
-## 👨‍💻 Author
+## Author
 
 **Vaibhav Shrivastav**
 
