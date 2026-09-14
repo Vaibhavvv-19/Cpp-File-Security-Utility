@@ -41,7 +41,7 @@ Decryption
 Original Content
 ```
 
-## ▶️ Example
+## Example
 
 ### Original File
 
@@ -58,7 +58,7 @@ The program takes a key between `1–25` and transforms alphabetic characters us
 
 The same key is used to reverse the transformation and recover the original content.
 
-## 📚 Concepts Practiced
+## Concepts Practiced
 
 * Functions
 * Conditional statements
