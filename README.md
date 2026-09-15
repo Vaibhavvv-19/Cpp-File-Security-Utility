@@ -2,7 +2,7 @@
 
 A C++ project for encrypting and decrypting text files using a key-based character transformation.
 
-## 📌 About the Project
+##  About the Project
 
 This project was developed while learning C++ file handling, functions, input validation, and basic encryption concepts.
 
@@ -20,7 +20,7 @@ The program allows users to encrypt a text file using a numerical key and later 
 * Menu-driven console interface
 * Separate encryption and decryption functions
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **C++**
 * `iostream`
